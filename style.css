@@ -13,3 +13,8 @@ p.normal {
 p.thick {
     font-weight: bold;
 }
+
+div.header {
+  width: 1100pxl;
+  text-align: center;
+}
