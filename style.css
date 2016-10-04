@@ -1,11 +1,12 @@
 h1{
   font-size: 28;
-  margin: 0em;
+  margin: 0;
 }
 
 h2{
   font-weight: bold;
-  margin: 0em;
+  font-size: 3em;
+  margin: 0;
 }
 
 p {
