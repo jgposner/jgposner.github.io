@@ -5,12 +5,12 @@ h1{
 
 h2{
   font-weight: bold;
-  font-size: 3;
+  font-size: 1em;
   margin: 0;
 }
 
 p {
-  margin: 0em;
+  margin: 0;
 }
 
 p.normal {
