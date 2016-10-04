@@ -24,3 +24,7 @@ p.thick {
 div.header {
   text-align: center;
 }
+
+p.rightAlign {
+  text-align: right;
+}
