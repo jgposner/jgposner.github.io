@@ -1,10 +1,11 @@
 body {
 	font: Helvetica, Sans-Serif;
+	background-color: #e5dcbc;
 }
 
 #container {
 	width: 800px;
-	background-color: #e5dcbc;
+	margin: 40px auto 60px;
 }
 
 h1{
