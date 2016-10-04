@@ -1,5 +1,6 @@
 h1{
   font-size: 28;
+  margin: 0em;
 }
 
 p {
@@ -15,6 +16,5 @@ p.thick {
 }
 
 div.header {
-  width: 1100pxl;
   text-align: center;
 }
