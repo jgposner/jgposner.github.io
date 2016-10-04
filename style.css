@@ -1,7 +1,10 @@
 h1{
   font-size: 28;
 }
-  
+
+p {
+  margin: 0em;
+}
 
 p.normal {
   font-weight: normal;
