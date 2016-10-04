@@ -25,6 +25,10 @@ div.header {
   text-align: center;
 }
 
-p.rightAlign {
+p.rightalign {
+  text-align: right;
+}
+
+div.rightalign {
   text-align: right;
 }
